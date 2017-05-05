@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="104px" height="41px" viewBox="0 0 104 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Temperature field</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="104" height="41"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="104" height="41" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Redesign-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Device-Popup-Thermostat" transform="translate(-375.000000, -554.000000)">
+            <g id="Popup-Card" transform="translate(217.000000, 24.000000)">
+                <g id="Blank-Field" transform="translate(158.000000, 530.000000)">
+                    <g id="Temperature">
+                        <g id="Icon/Temperature-field">
+                            <use id="Rectangle-6" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#D8D8D8" opacity="0.253964552" xlink:href="#path-1"></use>
+                            <rect id="Rectangle-7" fill="#DDDDDD" x="65" y="0" width="39" height="41"></rect>
+                            <polygon id="Path-2" fill="#4A4A4A" opacity="0.708430504" points="86.4139507 9.12132034 84.9997372 9.12132034 93.6196599 17.7412431 95.0338735 16.3270295 86.4139507 7.70710678 85.7068439 7 84.9997372 7.70710678 76 16.7068439 77.4142136 18.1210575"></polygon>
+                            <polygon id="Path-2-Copy" fill="#4A4A4A" opacity="0.708430504" transform="translate(85.516937, 28.560529) rotate(-180.000000) translate(-85.516937, -28.560529) " points="86.4139507 25.1213203 84.9997372 25.1213203 93.6196599 33.7412431 95.0338735 32.3270295 86.4139507 23.7071068 85.7068439 23 84.9997372 23.7071068 76 32.7068439 77.4142136 34.1210575"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
