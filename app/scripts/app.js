@@ -25,8 +25,8 @@ angular
         controller: 'MainCtrl',
         controllerAs: 'main'
       })
-      .when('/about', {
-        templateUrl: 'views/about.html'
+      .when('/login', {
+        templateUrl: 'views/login.html'
       })
       .otherwise({
         redirectTo: '/'
